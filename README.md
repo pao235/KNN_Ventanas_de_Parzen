@@ -8,7 +8,7 @@ Inteligencia Artificial · ITCH · Semestre enero–junio 2026
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-KNN%20%7C%20Parzen-purple)
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/NOMBRE_REPO/blob/main/KNN_y_Ventanas.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/KNN_Ventanas_de_Parzen/blob/main/KNN_y_Ventanas.ipynb)
 
 ---
 
